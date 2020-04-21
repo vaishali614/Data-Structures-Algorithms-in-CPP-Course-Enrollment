@@ -1,7 +1,3 @@
-Basics
-Programming fundamentals
-Patterns Practice
-Functions
 Arrays
 Multidimensional Arrays
 Time and Space Complexity
