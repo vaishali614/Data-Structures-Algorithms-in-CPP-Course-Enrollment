@@ -1,7 +1,8 @@
 # Data Structures and Algorithms in C++
 
-![GCI](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-CPP-Course-Enrollment/blob/master/gci.jpeg)
-
+<pre>
+       ![GCI](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-CPP-Course-Enrollment/blob/master/gci.jpeg)
+</pre>
 ### COURSE METHODOLGY
 Thousands of resources and hundreds of practice sites are always just a google search away, to learn and practice Data Structures and Algorithms, but still a lot of students struggle in learning and practicing it perfectly 🔥, 
 But Why So ? 😧 
