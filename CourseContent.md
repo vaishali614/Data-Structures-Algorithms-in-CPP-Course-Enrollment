@@ -19,10 +19,10 @@
 - String Matching Algorithms
 - Graphs
 - Range Queries
-  ➢ Segment Tree  
-  ➢ Lazy Segment Tree
-  ➢ Square Root Decomposition 
-  ➢ Sparse Table
+  - Segment Tree  
+  - Lazy Segment Tree
+  - Square Root Decomposition 
+  - Sparse Table
 - Object-Oriented Programming
 
 
