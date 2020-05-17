@@ -25,7 +25,7 @@ If this is the case, you should probably enroll for the basics course whose deta
 
 ### Submitting your assignment
 - You shall upload all your solutions to a git repository, and provide it's link in this [form]().
-- If you don't know how to use git, you can also create a "ZIP archive" of your assignment folder and upload it in this []form(). 
+- If you don't know how to use git, you can also create a "ZIP archive" of your assignment folder and upload it in this [form](). 
 - For more instructions on how to zip and unzip files on Windows and Mac, see [this guide](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
 
